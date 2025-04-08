@@ -2,8 +2,6 @@
 
 Welcome to A3 Tours and Travels - Your Ultimate Australian Travel Partner!
 
-![A3 Tours Logo](LOGO%20AUS.jpeg)
-
 ## 🌟 About Us
 
 A3 Tours and Travels is your gateway to exploring the wonders of Australia. We specialize in creating unforgettable travel experiences with a focus on quality, safety, and personalized service. Our team of dedicated travel experts crafts seamless journeys that cater to every type of traveler.
